@@ -1,5 +1,28 @@
 # 💫 About Me:
-Hi, I’m Kartikee — a full-stack engineer focused on building<br>reliable, scalable web applications and clean system architectures.<br><br><br><br>I’m currently working on<br>Building full-stack web applications with React, Node.js, and MongoDB, focusing on real-world use cases.<br>I’m looking to collaborate on<br>Full-stack projects, product-based applications, and scalable web platforms.<br> I’m looking for help with<br>Advanced system design, performance optimization, and backend scalability.<br> I’m currently learning<br>System design principles, production-level backend patterns, and application architecture.<br>Ask me about<br>Full-stack development, REST APIs, React, Node.js, MongoDB, and clean code practices.<br><br>Fun fact<br>I enjoy simplifying complex problems into maintainable and scalable solutions.
+
+I’m Kartikee, a full-stack engineer focused on building
+scalable web applications and clean system architectures.
+
+I care about how systems are designed, how data flows,
+and how products behave in real-world usage — not just
+how they look or ship.
+
+### 🔧 Currently Working On
+Production-ready full-stack applications using React,
+Node.js, and MongoDB.
+
+### 🤝 Open to Collaborate On
+Product-focused platforms and scalable web systems.
+
+### 🧠 Exploring
+System design, backend scalability, and performance optimization.
+
+### 💬 Ask Me About
+Full-stack development, REST APIs, and application architecture.
+
+### ⚡ Fun Fact
+I enjoy turning complex problems into simple, maintainable systems.
+
 
 
 ## 🌐 Socials:
