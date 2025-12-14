@@ -1,11 +1,11 @@
 # 💫 About Me:
 
-I’m Kartikee, a full-stack engineer focused on building
+**I’m Kartikee, a full-stack engineer focused on building
 scalable web applications and clean system architectures.
 
 I care about how systems are designed, how data flows,
-and how products behave in real-world usage — not just
-how they look or ship.
+and how products behave in real-world usage not just
+how they look or ship.**
 
 ### 🔧 Currently Working On
 Production-ready full-stack applications using React,
