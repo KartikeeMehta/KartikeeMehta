@@ -1,72 +1,92 @@
-# AI Automation & Workflow Engineer
+# Full Stack Software Engineer
 
-I build AI-powered automation systems, scalable workflow pipelines, and business process infrastructure using n8n, APIs, LLMs, and modern full-stack technologies.
+I build scalable web applications, backend systems, AI-powered software, and production-ready SaaS products using modern full-stack technologies.
 
-My work focuses on:
-
-* AI workflow automation
-* Lead generation systems
-* AI-assisted content pipelines
-* API integrations & orchestration
-* Business process automation
-* Scalable backend systems
-
-Currently building automation infrastructure and AI-powered systems through CohortTech.
+My expertise includes designing maintainable software architectures, building REST APIs, integrating third-party services, and developing intelligent automation that solves real business problems.
 
 ---
 
-## Featured Systems
+## What I Build
 
-### AI Lead Generation & Outreach Automation
+- Full-stack web applications
+- Backend APIs & scalable services
+- AI-powered applications
+- Workflow automation systems
+- SaaS platforms
+- Business process automation
 
-Automated local business discovery, lead qualification, AI-generated outreach, and CRM synchronization using n8n, Groq, Airtable, and Google Maps APIs.
-
-### AI Lead Intelligence Pipeline
-
-AI-assisted opportunity monitoring and lead qualification system using RSS ingestion, local AI models, filtering pipelines, and workflow automation.
-
-### AI YouTube Shorts Automation Pipeline
-
-End-to-end AI content production workflow connecting Claude, ElevenLabs, AI video generation tools, and YouTube publishing systems.
+Currently building scalable software systems, AI solutions, and modern digital products.
 
 ---
 
-## Core Stack
+## Featured Projects
 
-### Automation & AI
+### AI Lead Generation Platform
 
-n8n • OpenAI • Claude • Groq • Ollama • AI Agents • Workflow Automation
+Built an automated lead generation platform combining Google Maps, AI qualification, CRM synchronization, and workflow automation using n8n, Groq, Airtable, and external APIs.
 
-### Backend & Infrastructure
+### AI Workflow Infrastructure
 
-Node.js • Express • MongoDB • MySQL • Redis • Docker • REST APIs
+Designed intelligent automation pipelines for opportunity monitoring, lead qualification, business workflows, and API orchestration using LLMs and modern automation tools.
+
+### Real-Time Chat Platform
+
+Developed a production-ready real-time messaging application featuring WebSocket communication, secure authentication, file sharing, and scalable backend architecture.
+
+### Personal Developer Portfolio
+
+Designed and developed a high-performance portfolio using Next.js, TypeScript, and Tailwind CSS with reusable components, responsive architecture, and optimized performance.
+
+---
+
+## Tech Stack
 
 ### Frontend
 
-React • Next.js • TypeScript • TailwindCSS • Vite
+React • Next.js • TypeScript • JavaScript • Tailwind CSS • Vite
+
+### Backend
+
+Node.js • Express.js • REST APIs • WebSockets • Authentication • Redis
+
+### Databases
+
+PostgreSQL • MongoDB • MySQL • Supabase
+
+### AI & Automation
+
+OpenAI • Claude • Groq • Ollama • n8n • AI Agents • Workflow Automation • LLM Integrations
+
+### Cloud & DevOps
+
+Docker • Git • GitHub • Railway • Vercel • Netlify
 
 ---
 
-## What I Focus On
+## Areas of Interest
 
-* Building production-oriented AI workflows
-* Automating repetitive business operations
-* Connecting APIs into scalable systems
-* Designing maintainable automation pipelines
-* Creating AI-assisted operational tools
+- Scalable Software Architecture
+- Backend Engineering
+- API Design & Integrations
+- AI-powered Product Development
+- Workflow Automation
+- Performance Optimization
+- Distributed Systems
+- SaaS Engineering
 
 ---
 
-Building AI automation systems, workflow infrastructure, and scalable digital solutions for modern businesses.
+I enjoy building software that is reliable, maintainable, and designed to scale—from full-stack applications and backend services to AI-powered systems and modern automation infrastructure.
 
 ---
 
 ## GitHub Focus
 
-Most repositories here are focused on:
+Most repositories here focus on:
 
-* AI automation systems
-* workflow orchestration
-* scalable backend tooling
-* full-stack product systems
-* business process automation
+- Full-stack web applications
+- Backend systems & REST APIs
+- AI-powered software
+- Workflow automation
+- SaaS platforms
+- Scalable business solutions
